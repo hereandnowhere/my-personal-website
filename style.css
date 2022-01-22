@@ -10,6 +10,11 @@ body {
     width: 50%;
 }
 
+#intro{
+    display: block;
+    text-align: justify;
+}
+
 ul {
     list-style-type: none;
     margin: 0;
